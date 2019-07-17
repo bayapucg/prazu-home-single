@@ -191,11 +191,11 @@
         </header>
 
         <div class="row">
-
+  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
              <ul class="">
 				<li>Line-busting - Speed up service</li>
 		    </ul>
-          </div>
+			</div>
           <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
             <ul class="">
 				<li>Cloud supported – Cutting edge technology</li>
