@@ -159,6 +159,8 @@
 				<li>Menu display</li>
 				<li>Order (multiple)</li>
 				<li>Feedback & Rating</li>
+				<li>Offers & promotions display</li>
+				<li>Feedback & Rating</li>
 				
 		    </ul>
           </div>
@@ -190,58 +192,12 @@
 
         <div class="row">
 
-          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="">HOTEL INFORMATION</a></h4>
+          <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
             <ul class="">
-				<li> Contacts</li>
-				<li>Photo Gallery</li>
-				<li>Hotel Description</li>
-				<li>Rooms and Prices</li>
-				<li>Hotel Location</li>
-				<li>Hotel Guest Feedback</li>
-				<li>Hotel Facilities</li>
+				<li>Line-busting - Speed up service</li>
 		    </ul>
           </div>
-          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title"><a href="">SERVICES AND AMINITIES</a></h4>
-             <ul class="">
-				<li> Restaurants and Bars</li>
-				<li>Hotel Conference Rooms</li>
-				<li>SPA and Wellness</li>
-				<li>Car and Atv Rental</li>
-				<li>Excursions</li>
-				<li>Transfers</li>
-				<li>Secreterial Services</li>
-		    </ul>
-          </div>
-          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">DISCOUNTS AND SPECIAL OFFERS</a></h4>
-            <ul class="">
-				<li>Honeymoon Suite</li>
-				<li>Weekend Package</li>
-				<li>Business Package</li>
-				<li>Permanent Guest Tariff</li>
-				<li>Gift Vouchers</li>
-				<li>Long Stay</li>
-				<li>Hot Offers</li>
-		    </ul>
-          </div>
-          <div class="col-lg-6 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-            <h4 class="title"><a href="">ONLINE ORDERING</a></h4>
-             <ul class="">
-				<li>Room Reservations</li>
-				<li>In-Room Dining</li>
-				<li>Flowers Delivery</li>
-				<li>Concierge Services</li>
-				<li>Tickets Delivery</li>
-				<li>Taxi Services</li>
-				<li>Alarm Service</li>
-		    </ul>
-          </div>
+          
           
 
         </div>
