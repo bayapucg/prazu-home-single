@@ -114,6 +114,34 @@
        
 
       </div>
+	  <div class="container">
+      <div class="text-center">
+         <h2 class="text-danger fnt-styl">The Concept</h2>
+      </div>
+      <div class="row mobile-view">
+			<p>Personalised android tablets are placed on each table. Customers can get all the needed information and order services with the help of tablet in which they can find special offers, visitor attractions and menu in the simpler way.</p>
+			<div class="col-md concept-content">
+				<img src="img/icon1.png" alt="icon1" class="icon-sizing">
+				<p>Customer places an order from the tablet which will be placed on tables</p>
+			</div>
+			<div class="col-md concept-content">
+				<img src="img/icon2.png" alt="icon1" class="icon-sizing">
+				<p>The order information will be sent to sent to kitchen screen and will be displayed in table layout view</p>
+			</div>
+			<div class="col-md concept-content">
+				<img src="img/icon3.png" alt="icon1" class="icon-sizing">
+				<p>Waiters and servers executes the request and serves the food to the customers</p>
+			</div>
+			<div class="col-md concept-content">
+				<img src="img/icon4.png" alt="icon1" class="icon-sizing">
+				<p>Customers can pay the bill seamlessly through online payment and the cash will be sent through sms/email</p>
+			</div>
+			<div class="col-md concept-content">
+				<img src="img/icon5.png" alt="icon1" class="icon-sizing">
+				<p>While leaving, asks for feedback &amp; rating</p>
+			</div>
+      </div>
+   </div>
     </section><!-- #about -->
 
     <!--==========================
@@ -385,6 +413,32 @@ WE’RE HERE FOR YOU...!”
               <strong>Phone:</strong> +91 9494422779<br>
               <strong>Email:</strong> info@prachatech.com<br>
             </p>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+  <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+			  <li class=""><a href="#intro">Home</a></li>
+			  <li><a href="#about">Concept</a></li>
+			  <li><a href="#services">Features</a></li>
+			  <li><a href="#portfolio">Benefits</a></li>
+			  <li><a href="#contact">Enquiry Form</a></li>
+            </ul>
+          </div>
+
+		  <div class="col-lg-6 col-md-6 footer-contact">
+            <h4>Location</h4>
+          <div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1930.3060123147648!2d78.38793615387355!3d17.494931300150803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91f4f553e453%3A0x912891756062ff71!2sSri+Vani+Nilayam%2C+Sardar+Patel+Nagar%2C+Bhagat+Singh+Nagar%2C+Kukatpally+Housing+Board+Colony%2C+Kukatpally%2C+Hyderabad%2C+Telangana+500085!5e0!3m2!1sen!2sin!4v1563366320024!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		  </div>
 
             <div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>

@@ -1572,3 +1572,29 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 }
+.concept-content{
+	 background: #fff;
+    -webkit-box-shadow: 0 0 7px rgba(0,0,0,0.1);
+    box-shadow: 0 0 7px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    -webkit-transition: all .25s ease-in-out;
+    -moz-transition: all .25s ease-in-out;
+    -o-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+    border-radius: 4px;
+	min-height:250px;
+	text-align:center;
+	padding:20px;
+}
+.concept-content:hover {
+    margin-top: -10px;
+    -webkit-transition: all .25s ease-in-out;
+    -moz-transition: all .25s ease-in-out;
+    -o-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+    -webkit-box-shadow: 0 2px 20px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,0.2);
+}
+.icon-sizing{
+		margin-bottom:20px;
+}
