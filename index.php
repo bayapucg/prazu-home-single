@@ -192,8 +192,7 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
+             <ul class="">
 				<li>Line-busting - Speed up service</li>
 		    </ul>
           </div>
