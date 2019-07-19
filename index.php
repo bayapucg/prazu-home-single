@@ -77,9 +77,9 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>LEVERAGING SIMPLE AND POWERFUL SOLUTIONS FOR HOSPITALITY INDUSTRY.</h2>
-                <p>Introducing prazulity – e-menu for restaurants.
-</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+                <h4 class="text-white"><b>Introducing prazulity – e-menu for restaurants.</b></h4>
+                <p>Powered by Pracha Technologies Pvt Ltd.</p>
+                <a href="#contact" class="btn-get-started scrollto">Get Started</a>
               </div>
             </div>
           </div>
@@ -104,22 +104,20 @@
 
    
     <section id="about">
-      <div class="container">
+      <div class="container" style=" text-transform: uppercase;">
 
         <header class="section-header">
-          <h3>CONCEPT</h3>
-          <p>PERSONALISED ANDROID TABLETS ARE PLACED IN EACH HOTEL ROOM. HOTEL GUESTS CAN GET ALL THE NEEDED INFORMATION AND ORDER SERVICES WITH THE HELP OF TABLET IN WHICH THEY CAN FIND SPECIAL OFFERS, VISITOR ATTRACTIONS AND MENU IN THE MOST POPULAR LANGUAGES.</p>
+          <h3>The Concept</h3>
+          <p>Personalised android tablets are placed on each table. Customers can get all the needed information and order services with the help of tablet in which they can find special offers, visitor attractions and menu in the simpler way.</p>
         </header>
 
        
 
       </div>
 	  <div class="container">
-      <div class="text-center">
-         <h2 class="text-danger fnt-styl">The Concept</h2>
-      </div>
+
       <div class="row mobile-view">
-			<p>Personalised android tablets are placed on each table. Customers can get all the needed information and order services with the help of tablet in which they can find special offers, visitor attractions and menu in the simpler way.</p>
+	
 			<div class="col-md concept-content">
 				<img src="img/icon1.png" alt="icon1" class="icon-sizing">
 				<p>Customer places an order from the tablet which will be placed on tables</p>
@@ -193,20 +191,44 @@
 		    </ul>
           </div>
 		</div>
-		<hr>
-		<div class="row">
+		
+    </section>
+	<section id="about">
+      <div class="container">
 
-          <div class="col-lg-12 col-md-12 box wow bounceInUp" data-wow-duration="1.4s">
-            <ol class="">
-				<li>Cloud supported</li>
-				<li>Free updates </li>
-				<li>Integrated workflow</li>
-				<li>Improved Customer care</li>
-				<li>Graphical Data Representation</li>
-			
-		    </ol>
+      
+
+        <div class="row about-cols">
+
+          <div class="col-md wow fadeInUp">
+            <div class="about-col">
+              <h2 class="title py-4  bg-primary text-white">Our<br> Mission</h2>
+            </div>
           </div>
-	
+		   <div class="col-md wow fadeInUp">
+            <div class="about-col">
+              <h2 class="title py-4  bg-warning text-white ">Free <br> updates</h2>
+            </div>
+          </div>
+		   <div class="col-md wow fadeInUp">
+            <div class="about-col">
+              <h2 class="title py-4 bg-info text-white ">Integrated workflow</h2>
+            </div>
+          </div>
+		   <div class="col-md wow fadeInUp">
+            <div class="about-col">
+              <h2 class="title py-4 bg-success text-white ">Improved Customer care</h2>
+            </div>
+          </div>
+		   <div class="col-md wow fadeInUp">
+            <div class="about-col">
+              <h2 class="title py-4 bg-danger text-white ">Graphical Data Representation</h2>
+            </div>
+          </div>
+
+         
+
+        </div>
 
       </div>
     </section>
@@ -376,15 +398,13 @@ WE’RE HERE FOR YOU...!”
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                 <div class="validation"></div>
               </div>
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+			    <div class="form-group col-md-6">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Mobile Number" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
               <div class="validation"></div>
             </div>
-            <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-              <div class="validation"></div>
             </div>
+          
+           
             <div class="text-center"><button type="submit">Send Message</button></div>
           </form>
         </div>
