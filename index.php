@@ -390,15 +390,15 @@ WE’RE HERE FOR YOU...!”
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm">
             <div class="form-row">
-              <div class="form-group col-md-6">
+              <div class="form-group col-md-4">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                 <div class="validation"></div>
               </div>
-              <div class="form-group col-md-6">
+              <div class="form-group col-md-4">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                 <div class="validation"></div>
               </div>
-			    <div class="form-group col-md-6">
+			    <div class="form-group col-md-4">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Mobile Number" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
               <div class="validation"></div>
             </div>
