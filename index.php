@@ -202,7 +202,7 @@
 
           <div class="col-md wow fadeInUp">
             <div class="about-col">
-              <h2 class="title py-4  bg-primary text-white">Our<br> Mission</h2>
+              <h2 class="title py-4  bg-primary text-white">Cloud <br> supported</h2>
             </div>
           </div>
 		   <div class="col-md wow fadeInUp">
