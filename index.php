@@ -54,7 +54,7 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">Concept</a></li>
           <li><a href="#services">Features</a></li>
-          <li><a href="#portfolio">Benefits</a></li>
+          <li><a href="#benefits">Benefits</a></li>
 		  <li><a href="#contact">Enquiry Form</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -232,7 +232,7 @@
 
       </div>
     </section>
-	  <section id="services" class="bg-f5f5f5">
+	  <section id="benefits" class="bg-f5f5f5">
       <div class="container">
 
         <header class="section-header wow fadeInUp">
@@ -450,7 +450,7 @@ WE’RE HERE FOR YOU...!”
 			  <li class=""><a href="#intro">Home</a></li>
 			  <li><a href="#about">Concept</a></li>
 			  <li><a href="#services">Features</a></li>
-			  <li><a href="#portfolio">Benefits</a></li>
+			  <li><a href="#benefits">Benefits</a></li>
 			  <li><a href="#contact">Enquiry Form</a></li>
             </ul>
           </div>
