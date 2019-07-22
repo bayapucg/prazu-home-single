@@ -242,84 +242,85 @@
 
         <div class="row">
   <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-             <ul class="">
-				<li>Line-busting - Speed up service</li>
-		    </ul>
+              <img src="img/bi1.png" class="mx-auto d-block"> 
+				<p class="text-center">Line-busting - Speed up service</p>
+		    
 			</div>
           <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Cloud supported – Cutting edge technology</li>
-		    </ul>
+            
+			<img src="img/bi3.png" class="mx-auto d-block"> 
+				<p class="text-center">Cloud supported – Cutting edge technology</p>
+		    
           </div>
           <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Business analysis – Customer insights & frequency</li>
-		    </ul>
+            <img src="img/b23.png" class="mx-auto d-block">
+				<p class="text-center">Business analysis – Customer insights & frequency</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Easier, enhanced tableside ordering, self-ordering and payment</li>
-		    </ul>
+            <img src="img/b11.png" class="mx-auto d-block">
+				<p class="text-center">Easier, enhanced tableside ordering, self-ordering and payment</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Notification’s and alerts</li>
-		    </ul>
+            <img src="img/bi5.png" class="mx-auto d-block">
+				<p class="text-center">Notification’s and alerts</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Easy tipping</li>
-		    </ul>
+            <img src="img/b16.png" class="mx-auto d-block">
+				<p class="text-center">Easy tipping</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Effective entertainment/promotions</li>
-		    </ul>
+            <img src="img/bi6.png" class="mx-auto d-block">
+				<p class="text-center">Effective entertainment/promotions</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Labour efficiency</li>
-		    </ul>
+            <img src="img/b10.png" class="mx-auto d-block">
+				<p class="text-center">Labour efficiency</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Floor / table management</li>
-		    </ul>
+            <img src="img/b25.png" class="mx-auto d-block">
+				<p class="text-center">Floor / table management</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Kitchen communication</li>
-		    </ul>
+            <img src="img/b18.png" class="mx-auto d-block">
+				<p class="text-center">Kitchen communication</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Customizable menu</li>
-		    </ul>
+            <img src="img/bi8.png" class="mx-auto d-block">
+				<p class="text-center">Customizable menu</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Transparency & Punctuality</li>
-		    </ul>
+             <img src="img/b19.png" class="mx-auto d-block">
+				<p class="text-center">Transparency & Punctuality</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Centralized access to Information</li>
-		    </ul>
+            <img src="img/b12.png" class="mx-auto d-block">
+				<p class="text-center">Centralized access to Information</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Secured database</li>
-		    </ul>
+            <img src="img/bi9.png" class="mx-auto d-block">
+				<p class="text-center">Secured database</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Reduced Operating Costs</li>
-		    </ul>
+            <img src="img/b15.png" class="mx-auto d-block">
+				<p class="text-center">Reduced Operating Costs</p>
+		    
           </div>
 		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
-            <ul class="">
-				<li>Improved response time</li>
-		    </ul>
+            <img src="img/b14.png" class="mx-auto d-block">
+				<p class="text-center">Improved response time</p>
+		    
           </div>
 		  
         </div>
@@ -390,15 +391,15 @@ WE’RE HERE FOR YOU...!”
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm">
             <div class="form-row">
-              <div class="form-group col-md-6">
+              <div class="form-group col-md-4">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                 <div class="validation"></div>
               </div>
-              <div class="form-group col-md-6">
+              <div class="form-group col-md-4">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                 <div class="validation"></div>
               </div>
-			    <div class="form-group col-md-6">
+			    <div class="form-group col-md-4">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Mobile Number" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
               <div class="validation"></div>
             </div>
