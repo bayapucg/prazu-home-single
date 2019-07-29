@@ -2,10 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Prazu</title>
+  <title>E-Menu tablet for restaurants |food ordering system |Prazulity pvt ltd</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="e menu tablet for restaurant, restaurant ordering app, menu order app , digital restaurant table menu, food menu app, restaurant tablet ordering system, your digital menu app for your restaurant, tablet menu for restarants, menu order app
+restaurant tablet, menu app for restaurants, restaurant billing software
+food menu app, menu app for restaurants, Digital Menu" name="keywords">
+  <meta content="Prazulity developed a e-menu tablet for self-ordering system.In restaurants every customer will order food easily and easy to pay bill through this system" name="description">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
