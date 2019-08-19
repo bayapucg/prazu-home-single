@@ -241,83 +241,83 @@
         </header>
 
         <div class="row">
-  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
               <img src="img/bi1.png" class="mx-auto d-block"> 
 				<p class="text-center">Line-busting - Speed up service</p>
 		    
 			</div>
-          <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+          <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             
 			<img src="img/bi3.png" class="mx-auto d-block"> 
 				<p class="text-center">Cloud supported – Cutting edge technology</p>
 		    
           </div>
-          <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+          <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b23.png" class="mx-auto d-block">
 				<p class="text-center">Business analysis – Customer insights & frequency</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b11.png" class="mx-auto d-block">
 				<p class="text-center">Easier, enhanced tableside ordering, self-ordering and payment</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/bi5.png" class="mx-auto d-block">
 				<p class="text-center">Notification’s and alerts</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b16.png" class="mx-auto d-block">
 				<p class="text-center">Easy tipping</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/bi6.png" class="mx-auto d-block">
 				<p class="text-center">Effective entertainment/promotions</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b10.png" class="mx-auto d-block">
 				<p class="text-center">Labour efficiency</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b25.png" class="mx-auto d-block">
 				<p class="text-center">Floor / table management</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b18.png" class="mx-auto d-block">
 				<p class="text-center">Kitchen communication</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/bi8.png" class="mx-auto d-block">
 				<p class="text-center">Customizable menu</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
              <img src="img/b19.png" class="mx-auto d-block">
 				<p class="text-center">Transparency & Punctuality</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b12.png" class="mx-auto d-block">
 				<p class="text-center">Centralized access to Information</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/bi9.png" class="mx-auto d-block">
 				<p class="text-center">Secured database</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b15.png" class="mx-auto d-block">
 				<p class="text-center">Reduced Operating Costs</p>
 		    
           </div>
-		  <div class="col-lg-4 col-md-4 box wow bounceInUp" data-wow-duration="1.4s">
+		  <div class="col-lg-3 col-md-3 box wow bounceInUp" data-wow-duration="1.4s">
             <img src="img/b14.png" class="mx-auto d-block">
 				<p class="text-center">Improved response time</p>
 		    
