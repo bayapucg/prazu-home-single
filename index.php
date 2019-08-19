@@ -2,10 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Prazu</title>
+  <title>E-Menu tablet for restaurants |food ordering system |Prazulity pvt ltd</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="e menu tablet for restaurant, restaurant ordering app, menu order app , digital restaurant table menu, food menu app, restaurant tablet ordering system, your digital menu app for your restaurant, tablet menu for restarants, menu order app
+restaurant tablet, menu app for restaurants, restaurant billing software
+food menu app, menu app for restaurants, Digital Menu" name="keywords">
+  <meta content="Prazulity developed a e-menu tablet for self-ordering system.In restaurants every customer will order food easily and easy to pay bill through this system" name="description">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -54,7 +56,7 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">Concept</a></li>
           <li><a href="#services">Features</a></li>
-          <li><a href="#portfolio">Benefits</a></li>
+          <li><a href="#benefits">Benefits</a></li>
 		  <li><a href="#contact">Enquiry Form</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -202,7 +204,7 @@
 
           <div class="col-md wow fadeInUp">
             <div class="about-col">
-              <h2 class="title py-4  bg-primary text-white">Our<br> Mission</h2>
+              <h2 class="title py-4  bg-primary text-white">Cloud <br> supported</h2>
             </div>
           </div>
 		   <div class="col-md wow fadeInUp">
@@ -232,7 +234,7 @@
 
       </div>
     </section>
-	  <section id="services" class="bg-f5f5f5">
+	  <section id="benefits" class="bg-f5f5f5">
       <div class="container">
 
         <header class="section-header wow fadeInUp">
@@ -450,7 +452,7 @@ WE’RE HERE FOR YOU...!”
 			  <li class=""><a href="#intro">Home</a></li>
 			  <li><a href="#about">Concept</a></li>
 			  <li><a href="#services">Features</a></li>
-			  <li><a href="#portfolio">Benefits</a></li>
+			  <li><a href="#benefits">Benefits</a></li>
 			  <li><a href="#contact">Enquiry Form</a></li>
             </ul>
           </div>
